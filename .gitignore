@@ -1,0 +1,17 @@
+# Credentials - never commit these
+*.key
+*.pfx
+*.cer
+*.p12
+*.pem
+*.secret
+.env
+
+# PowerShell output
+*.csv
+*.log
+*-report-*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
